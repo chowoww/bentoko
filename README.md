@@ -1,0 +1,2 @@
+# bentoko
+GitHub Pages
