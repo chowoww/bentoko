@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bentoko travel",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -1607,7 +1607,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>We traveled a lot while our family lived abroad for the last few years. Since my husband was mostly always the one carrying the luggage, he asked if we could take only one suitcase. I told him, “Craziness — we are a family of 4!”. Long story short we found a way and traveled with one suitcase using packing cubes. It changed how I packed and how we traveled as a family...and fueled my own passion and love for organizing! </p><p><br>However, the majority of the packing cubes on the market were not aesthetically pleasing at a reasonable price point. My thought was, people pack their favorite clothes when they travel so why not bring this over to the packing experience and travel in your best style. Fast forward to now, we decided to design and share our packing cubes, adding a few enhancements with a selection of fun and vibrant colors.</p><p><br></p><p>We want to create a packing cube for others to enjoy their new “packing experience” where everything in your suitcase has a place and looks great at the same time!<br><br></p><p>- <b>Eva and Billy</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>We traveled a lot while our family lived abroad for the last few years. Since my husband was mostly always the one carrying the luggage, he asked if we could take only one suitcase. I told him, “Craziness — we are a family of 4!”. Long story short we found a way and traveled with one suitcase using packing cubes. It changed how I packed and how we traveled as a family...and fueled my own passion and love for organizing! </p><p><br>However, the majority of the packing cubes on the market were not aesthetically pleasing at a reasonable price point. My thought was, people pack their favorite clothes when they travel so why not bring this over to the packing experience and travel in your best style. Fast forward to now, we decided to design and share our packing cubes, adding a few enhancements with a selection of fun and vibrant colors.</p><p><br></p><p>We want to create a packing cube for others to enjoy their new “packing experience” where everything in your suitcase has a place and looks great at the same time!<br><br></p><p>- <b>Eva and Billy</b><br><i>Follow us&nbsp;<a href=\"https://www.instagram.com/bentokotravel/\">@bentokotravel</a>&nbsp;</i></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rm0g6rMXTw",
           "_anchor": "content1-l",
           "_protectedParams": [],
